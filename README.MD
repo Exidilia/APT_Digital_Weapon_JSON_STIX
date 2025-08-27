@@ -1,4 +1,4 @@
-## I have added 2 converter files that one converts markdown files to json format and the second one converts the json files to stix format files. Make sure to run `md2json.py` first and `json2stix.py` afterwards.
+# I have added 2 converter files that one converts markdown files to json format and the second one converts the json files to stix format files. Make sure to run `md2json.py` first and `json2stix.py` afterwards.
 
 Copyright © [@RedDrip](https://twitter.com/RedDrip7?s=20) (https://ti.qianxin.com/)
    
