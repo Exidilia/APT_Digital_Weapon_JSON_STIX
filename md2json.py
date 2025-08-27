@@ -78,6 +78,6 @@ def parse_markdown_files_to_json(root_dir, max_workers=8):
                 logging.warning(f"Skipped {rel_path} due to errors")
 
 if __name__ == "__main__":
-    repo_root_dir = "./APT_Digital_Weapon"  # adjust this path
+    repo_root_dir = "."  # adjust this path
     parse_markdown_files_to_json(repo_root_dir)
     logging.info(f"Completed conversion of markdown files to JSON in APT_DIGITAL_WEAPON_JSON.")
